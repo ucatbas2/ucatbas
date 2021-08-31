@@ -5,6 +5,7 @@
 - 💬 Ask me about ROS, OOP
 - 📫 How to reach me: ufukcivan4@gmail.com
 - ⚡ Fun fact: Interested in FPL
+- 📄	Here is some of my [certificates](/Certificates)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ucatbas&layout=compact)](https://github.com/ucatbas)
 
