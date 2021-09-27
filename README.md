@@ -1,5 +1,6 @@
 ### Hi there, I'm Ufuk 👋
 
+- 🏫 I'm studying Computer Science in Koç University for my Master's - Currently taking Deep Learning and Reinforcement Learning
 - 🔭 I’m currently working on Trajectory Generation from Realtime Camera Feedback and Web Applications
 - 🌱 I’m currently learning Flask, Scrapy, Reinforcement Learning
 - 💬 Ask me about ROS, OOP
